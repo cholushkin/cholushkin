@@ -1,8 +1,12 @@
-Hi, I’m Maxim Cholushkin!<br>
-:small_blue_diamond: Mostly Unity game development, full cycle;<br>
-:small_blue_diamond: Procedural art, AI-art, procedural content generation (music, meshes, levels, textures);<br>
-:small_blue_diamond: Game design, prototyping;<br>
-:small_blue_diamond: R&D, experimenting;<br>
-:small_blue_diamond: Creating worlds;<br>
 
-How to reach me [click](https://sites.google.com/view/cholushkinmaximcard/home)
+### Hi there, I'm Maxim Cholushkin! 👋
+
+- 🔨 I specialize in Unity game development, handling the full development cycle.
+- 🎨 I'm passionate about procedural art, AI-art, and procedural content generation, including music, meshes, levels, and textures.
+- 🎮 Game design and prototyping are among my creative skills.
+- 🧪 I love diving into R&D and experimenting with new technologies and ideas.
+- 🌍 My favorite task? Creating entire worlds!
+
+You can find more about me and my work on [my personal card](https://sites.google.com/view/cholushkinmaximcard/home).
+
+Feel free to explore my GitHub repositories to see some of the projects I've been working on. If you have any questions or would like to collaborate, don't hesitate to reach out!
