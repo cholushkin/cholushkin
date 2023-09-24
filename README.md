@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Maxim Cholushkin! 👋
 
-- 🔨 I specialize in Unity game development, handling the full development cycle.
+- 🔨 I specialize in gameplay development, handling the full development cycle.
 - 🎨 I'm passionate about procedural art, AI-art, and procedural content generation, including music, meshes, levels, and textures.
 - 🎮 Game design and prototyping are among my creative skills.
 - 🧪 I love diving into R&D and experimenting with new technologies and ideas.
