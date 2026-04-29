@@ -1,6 +1,6 @@
 ### Hi, I’m Maxim Cholushkin 👋
 
-Gameplay developer focused on building interactive systems — from early prototypes to polished features.
+Gameplay developer and generalist crafting interactive systems — from early prototypes to polished features.
 
 * 🔨 **Full-cycle gameplay development**
 * 🎨 **Procedural & AI-driven content** (art, music, meshes, levels, textures)
