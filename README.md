@@ -1,13 +1,28 @@
+### Hi, I’m Maxim Cholushkin 👋
 
-### Hi there, I'm Maxim Cholushkin! 👋
+Gameplay developer focused on building interactive systems — from early prototypes to polished features.
 
-- 🔨 I specialize in gameplay development, handling the full development cycle.
-- 🎨 I'm passionate about procedural art, AI-art, and procedural content generation, including music, meshes, levels, and textures.
-- 🎮 Game design and prototyping are among my creative skills.
-- 🧪 I love diving into R&D and experimenting with new technologies and ideas.
-- 🌍 My favorite task? Creating entire worlds!
-- my blog is here 👉 https://cholushkin.github.io/
-- 
-You can find more about me and my work on [my personal card](https://sites.google.com/view/cholushkinmaximcard/home).
+* 🔨 **Full-cycle gameplay development**
+* 🎨 **Procedural & AI-driven content** (art, music, meshes, levels, textures)
+* 🎮 **Game design & rapid prototyping**
+* 🧪 **R&D and experimentation with new technologies**
+* 🌍 **Worldbuilding and systemic environments**
 
-Feel free to explore my GitHub repositories to see some of the projects I've been working on. If you have any questions or would like to collaborate, don't hesitate to reach out!
+I work at the intersection of **code, creativity, and systems design**.
+
+---
+
+### 🔗 Links
+
+* 🌐 Blog: https://cholushkin.github.io/
+* 🧾 Personal card (all links & portfolio): https://sites.google.com/view/cholushkinmaximcard/home
+* 💻 GitHub: https://github.com/cholushkin
+
+Feel free to explore my repositories to see what I’ve been working on.
+
+---
+
+### 🤝 Contact
+
+Open to collaborations, interesting ideas, and technical discussions.
+If something resonates — feel free to reach out!
