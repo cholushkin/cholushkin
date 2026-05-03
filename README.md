@@ -16,7 +16,6 @@ I work at the intersection of **code, creativity, and systems design**.
 
 * 🌐 Blog: https://cholushkin.github.io/
 * 🧾 Personal card (all links & portfolio): https://sites.google.com/view/cholushkinmaximcard/home
-* 💻 GitHub: https://github.com/cholushkin
 
 Feel free to explore my repositories to see what I’ve been working on.
 
